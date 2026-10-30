@@ -41,11 +41,6 @@
                 "repo": "https://github.com/eclipse-score/communication.git",
                 "docs": false,
                 "hash": "cea38c1f8404049b20645a63a740e5f57362eae4",
-                "bazel_patches": [
-                    "//patches/communication:001-expose-comm-examples.patch",
-                    "//patches/communication:003-module-deps-visibility.patch",
-                    "//patches/communication:004-rules-build-error-not-dev-dependency.patch"
-                ],
                 "metadata": {
                     "code_root_path": "//score/mw/com/impl/...",
                     "extra_test_config": [
