@@ -57,7 +57,6 @@
                         "//score/mw/com/impl:runtime_test",
                         "//score/mw/com/impl/configuration:config_parser_test",
                         "//score/mw/com/impl/configuration:configuration_test",
-                        "//score/mw/com/impl/configuration:configuration_json_parsing_strategy_test",
                         "//score/mw/com/impl/tracing/configuration:tracing_filter_config_parser_test",
                         "//score/mw/com/impl/tracing:tracing_runtime_test",
                         "//score/mw/com/impl/bindings/lola/tracing:tracing_runtime_test",
